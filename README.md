@@ -37,3 +37,4 @@ I'm a software engineer who is passionate about making open-source more accessib
   ## MY GIT STATS
    
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi)](https://github.com/anuraghazra/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=radical)
