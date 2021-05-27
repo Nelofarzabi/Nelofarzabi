@@ -1,4 +1,5 @@
-#Hi there, I'm Nelofar 👋 👩‍💻
+# Hi there, I'm Nelofar 👋 👩‍💻
+
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
 - 🔭 I’m currently working on Hub-Chain Company in Afghanistan
@@ -24,6 +25,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 <a href="https://github.com/Nelofarzabi">
   <img align="left" width="150" height="150" src="https://github.com/Nelofarzabi/files/blob/main/NeloGak.gif?raw=true">
 </a>
+
   - Tinkering with interactions on <a href="https://codepen.io/Nelofar2000"> Codepen</a> 🏓
   
   - Sharing updates on <a href="https://www.linkedin.com/in/nelofar-zabi-1a1066213">LinkedIn</a> 💼
