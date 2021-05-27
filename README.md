@@ -32,4 +32,4 @@ I'm a software engineer who is passionate about making open-source more accessib
   - Tinkering with interactions on <a href="https://codepen.io/Nelofar2000"> Codepen</a> 🏓
   
   - Sharing updates on <a href="https://www.linkedin.com/in/nelofar-zabi-1a1066213">LinkedIn</a> 💼
-  - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofar zabi)](https://github.com/anuraghazra/github-readme-stats)
+  - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi)](https://github.com/anuraghazra/github-readme-stats)
