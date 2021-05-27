@@ -20,6 +20,9 @@ I'm a software engineer who is passionate about making open-source more accessib
   - Django
   - MySql
   - Java
+  - Node.js 
+  - Redux 
+  
   
 ## Find me around the web 🌎: 
 <a href="https://github.com/Nelofarzabi">
