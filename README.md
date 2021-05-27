@@ -24,6 +24,8 @@ I'm a software engineer who is passionate about making open-source more accessib
   - Redux 
   - Php 
   - Laravel
+
+
   MY GIT STATS
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi)](https://github.com/anuraghazra/github-readme-stats)
   
