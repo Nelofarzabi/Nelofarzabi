@@ -36,5 +36,5 @@ I'm a software engineer who is passionate about making open-source more accessib
   - Sharing updates on <a href="https://www.linkedin.com/in/nelofar-zabi-1a1066213">LinkedIn</a> 💼
   ## MY GIT STATS
    
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi)](https://github.com/anuraghazra/github-readme-stats)
+   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=radical)
