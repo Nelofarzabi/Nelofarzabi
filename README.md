@@ -38,3 +38,5 @@ I'm a software engineer who is passionate about making open-source more accessib
    
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=radical)
+   ## Top Language 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
