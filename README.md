@@ -13,17 +13,8 @@ I'm a software engineer who is passionate about making open-source more accessib
   - Html
   - Css
   - Bootstrap
-  - Tailwind-css
-  - JavaScript
-  - React
-  - Python
-  - Django
-  - MySql
-  - Java
-  - Node.js 
-  - Redux 
-  - Php 
-  - Laravel
+  - javascript 
+  
   
   
 ## Find me around the web 🌎: 
