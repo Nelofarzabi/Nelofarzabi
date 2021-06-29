@@ -13,7 +13,14 @@ I'm a software engineer who is passionate about making open-source more accessib
   - Html
   - Css
   - Bootstrap
-  - javascript 
+  - javascript
+  - Php
+  - CodeIgniter
+  - Laravel
+  - Java
+  - Tailwind CSS
+  - Materialize Css
+  
   
   
   
