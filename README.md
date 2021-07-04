@@ -1,4 +1,4 @@
-# Hi there, I'm <a href = "https://github.com/Nelofarzabi">Nelofar Zabi </a>👋
+# Hi, I'm <a href = "https://github.com/Nelofarzabi" style="text-decoration: none;">Nelofar Zabi </a>👋
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
