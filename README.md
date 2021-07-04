@@ -14,7 +14,7 @@ I'm a software engineer who is passionate about making open-source more accessib
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px; width:30px;">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px; width:30px;">
-  <img src="./includes/java.svg" alt="java" style="vertical-align:top; margin:4px; width:30px;">
+<!--   <img src="./includes/java.svg" alt="java" style="vertical-align:top; margin:4px; width:30px;"> -->
 <!--   <img src="./includes/css.svg" alt="css" style="vertical-align:top; margin:4px; width:30px;"> -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px; width:30px;">
 <!-- <img src="./includes/bootstrap.svg" alt="bootsrap" style="vertical-align:top; margin:4px; width:30px;"> -->
