@@ -26,16 +26,17 @@ I'm a software engineer who is passionate about making open-source more accessib
   
   
   
-## Find me around the web 🌎: 
-<a href="https://github.com/Nelofarzabi">
-  <img align="left" width="150" height="150" src="https://github.com/Nelofarzabi/files/blob/main/NeloGak.gif?raw=true">
-</a>
-
-  - Tinkering with interactions on <a href="https://codepen.io/Nelofar2000"> Codepen</a> 🏓
-  
-  - Sharing updates on <a href="https://www.linkedin.com/in/nelofar-zabi-1a1066213">LinkedIn</a> 💼
-  ## MY GIT STATS
+<table>
    
+   <table width="100%">
+   <tr>
+      <td>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0,52fa5a21,4dfcff21,c64dff21" />
+      </td>
+      <td>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight" />      
+      </td>
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=radical)
-  
+   </tr>
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Nelofarzabii&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight -->
+<table>
