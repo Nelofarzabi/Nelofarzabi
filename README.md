@@ -23,6 +23,22 @@ I'm a software engineer who is passionate about making open-source more accessib
   
  
 </p>
+
+
+### 📢 Find me elsewhere
+<p align="center">
+  <a href="https://twitter.com/mikecodesdotnet">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
+
+  <a href="https://www.linkedin.com/in/micjames/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.instagram.com/micjames6/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+  </p>
   
   
   
