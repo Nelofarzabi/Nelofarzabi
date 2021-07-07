@@ -8,7 +8,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 - 🤔 I’m looking for help with some one who needs help
 - ⚡ Fun fact: I love to learn new things
 
-## Languages & frameworks ->
+## I build with...
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
@@ -28,7 +28,7 @@ I'm a software engineer who is passionate about making open-source more accessib
   
  
 </p>
-##How To Reach Me:
+
 
 
 
