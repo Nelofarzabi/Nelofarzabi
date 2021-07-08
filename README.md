@@ -36,6 +36,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
 [![Instagram](https://img.shields.io/badge/instagram-%230077c6.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](nelofarzabi2000@gmail.com)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](nelofarzabi2000@gmail.com)
 
 
 
