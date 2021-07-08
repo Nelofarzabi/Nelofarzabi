@@ -37,7 +37,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![Instagram](https://img.shields.io/badge/instagram-%230077c6.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
-[![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)](https://dev.to/nelofarzabi style= "margin-left =12px")
+[![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)](https://dev.to/nelofarzabi)
 
 <!-- [![codepen](https://img.shields.io/badge/codepen-%230077B5.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nelofar2000) -->
 
