@@ -63,14 +63,15 @@ I'm a software engineer who is passionate about making open-source more accessib
    </tr>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Nelofarzabii&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight -->
 <table>
-  **👩🏼‍💻 My Github Data** 
+  
+<!-- �## My Github Data... 
 
 
 > 🏆 223 Contributions in the Year 2021
  >  
-> 📜 18 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=algolia&bg_color=00000000&hide_border=true&background=00000000&ring=4492d4&)](https://git.io/streak-stats)
+> 🔑 2 Private Repositories  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=algolia&bg_color=00000000&hide_border=true&background=00000000&ring=4492d4&)](https://git.io/streak-stats) -->
 
 
