@@ -71,8 +71,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 > 📜 18 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rina-Tokhi&theme=algolia&bg_color=00000000&hide_border=true&background=00000000&ring=4492d4&)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=algolia&bg_color=00000000&hide_border=true&background=00000000&ring=4492d4&)](https://git.io/streak-stats)
 
-<hr width = "60%">
-<hr width = "60%">
 
