@@ -6,11 +6,15 @@
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 </p>
 
-     - 🔭 I’m currently working on Hub-Chain Company in Afghanistan
-     - 🌱 I’m currently learning React and Node.Js
-     - 👯 I’m looking to collaborate with other content creators
-     - 🤔 I’m looking for help with some one who needs help
-     - ⚡ Fun fact: I love to learn new things
+<p margin-left ='12px'>
+
+- 🔭 I’m currently working on Hub-Chain Company in Afghanistan
+- 🌱 I’m currently learning React and Node.Js
+- 👯 I’m looking to collaborate with other content creators
+- 🤔 I’m looking for help with some one who needs help
+- ⚡ Fun fact: I love to learn new things
+  
+</p>
 
 ## I build with...
 <p align="center">
