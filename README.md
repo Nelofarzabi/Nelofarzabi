@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,<a href ="https://github.com/Nelofarzabi">
   I'm Nelofar Zabi</a></h1>
   <h3 align="center">Software Engineer | Web Developer</h3>
-
+<p align ='center'>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
-
+</p>
 - 🔭 I’m currently working on Hub-Chain Company in Afghanistan
 - 🌱 I’m currently learning React and Node.Js
 - 👯 I’m looking to collaborate with other content creators
