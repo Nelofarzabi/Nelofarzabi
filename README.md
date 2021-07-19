@@ -5,7 +5,7 @@
 <p align ='center'>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%150views&color=0e75b6&style=flat" alt="nelofarzabi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%200views&color=0e75b6&style=flat" alt="nelofarzabi" /> </p>
 
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
