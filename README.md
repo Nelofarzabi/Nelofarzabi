@@ -1,5 +1,7 @@
 <!-- # Hi there, I'm <a href = "https://github.com/Nelofarzabi" style="text-decoration: none;"> Nelofar Zabi </a>👋 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nelofar Zabi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,<a href ="https://github.com/Nelofarzabi">
+  I'm Nelofar Zabi</a></h1>
+  <h3 align="center">Software Engineer | Web Developer</h3>
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
