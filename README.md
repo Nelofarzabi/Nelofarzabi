@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,<a href ="https://github.com/Nelofarzabi">
   I'm Nelofar Zabi</a></h1>
   <h3 align="center">Software Engineer | Web Developer</h3>
-<p align ='center'>
+<h5 align ='center'>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
-</p>
+</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" /> </p>
 
 
