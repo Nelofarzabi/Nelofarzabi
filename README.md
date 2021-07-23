@@ -5,7 +5,13 @@
 <h3 align ='center'>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" /> </p> -->
+<p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
 
 
 <!--  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...*** -->
