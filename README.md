@@ -18,7 +18,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 - ⚡ Fun fact: I love to learn new things
   
 
-## I build with...
+<!-- ## I build with... -->
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;I Build With ....
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
@@ -39,8 +40,9 @@ I'm a software engineer who is passionate about making open-source more accessib
  
 </p>
 
-## Where to find me...
-
+<!-- ## Where to find me...
+ -->
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Where to find me....
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Nelofarzabi)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NelofarZabi/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
