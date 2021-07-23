@@ -9,9 +9,10 @@ I'm a software engineer who is passionate about making open-source more accessib
 <p align="center">
 <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Programming%20Language-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Afghan%20istan-success" />
+  <img src="https://img.shields.io/badge/Lives-Afghanistan%20-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Persion-brightgreen" />
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" />200 </p>
 
 
 <!--  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...*** -->
