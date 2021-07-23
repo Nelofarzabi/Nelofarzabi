@@ -63,7 +63,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
-### :link: &nbsp;Where to find me...
+### :link: &nbsp;Find me around the web...<hr><hr>
 [![Linkedin](https://img.shields.io/badge/-NelofarZabi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
 [![Gmail](https://img.shields.io/badge/-NelofarZabi2000-c14438?style=flat&logo=Gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
 [![Facebook](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
@@ -71,7 +71,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Instagram](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![Github](https://img.shields.io/badge/-NelofarZabi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Nelofarzabi)
 
-
+### My GitHub Status...
 <table>
    
    <table width="100%">
