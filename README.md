@@ -26,7 +26,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 - ⚡ Fun fact: I love to learn new things
   
 
-### I build with...
+###  🛠 &nbsp;I build with...
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -71,15 +71,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
 [![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)](https://dev.to/nelofarzabi)
 
-
-
-
-
-
-  
-  
-  
-  
+ 
 <table>
    
    <table width="100%">
