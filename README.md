@@ -12,10 +12,10 @@ I'm a software engineer who is passionate about making open-source more accessib
   <img src="https://img.shields.io/badge/Lives-Afghanistan%20-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Persion-brightgreen" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" />200 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" /></p>
 
 
-<!--  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...*** -->
+
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Talking about Personal Stuffs ....
  
 - 🔭 I’m currently working on Hub-Chain Company in Afghanistan
