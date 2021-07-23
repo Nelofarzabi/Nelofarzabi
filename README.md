@@ -24,7 +24,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with some one who needs help
 - ⚡ Fun fact: I love to learn new things
-<img src="https://github.com/Nelofarzabi/Nelofarzabi/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
+
+ <img src="https://github.com/NelofarZabi/NelofarZabi/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
   
 
 ###  🛠 &nbsp;I build with...
@@ -64,15 +65,20 @@ I'm a software engineer who is passionate about making open-source more accessib
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
 ### :link: &nbsp;Where to find me...
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Nelofarzabi)
+<!-- [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Nelofarzabi)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NelofarZabi/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
 [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![Instagram](https://img.shields.io/badge/instagram-%230077c6.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
-[![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)](https://dev.to/nelofarzabi)
+[![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)](https://dev.to/nelofarzabi) -->
 
- 
+[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
+[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)]()
+[![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Nelofar2000)
+[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
+[![Facebook](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 <table>
    
    <table width="100%">
