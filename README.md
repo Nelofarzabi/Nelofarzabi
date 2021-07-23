@@ -25,10 +25,9 @@ I'm a software engineer who is passionate about making open-source more accessib
 - 🤔 I’m looking for help with some one who needs help
 - ⚡ Fun fact: I love to learn new things
 
- <img src="https://github.com/NelofarZabi/NelofarZabi/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
   
 
-###  🛠 &nbsp;I build with...
+###  🛠 &nbsp;Language|Technology|Framework|Skills...
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -75,10 +74,11 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 [![Linkedin](https://img.shields.io/badge/-NelofarZabi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
 [![Gmail](https://img.shields.io/badge/-NelofarZabi2000-c14438?style=flat&logo=Gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@NelofarZabi-blue?style=flat&logo=Telegram&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![CodePen](https://img.shields.io/badge/-Nelofar2000-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Nelofar2000)
 [![Instagram](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
-[![Facebook](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
+[![Devcommunity](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=Devcommunity&logoColor=white)](https://dev.to/nelofarzabi)
+
 <table>
    
    <table width="100%">
