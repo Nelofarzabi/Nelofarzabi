@@ -8,7 +8,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" /> </p>
 
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<!--  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...*** -->
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ....***
  
 - 🔭 I’m currently working on Hub-Chain Company in Afghanistan
 - 🌱 I’m currently learning React and Node.Js
