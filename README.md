@@ -70,7 +70,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![CodePen](https://img.shields.io/badge/-Nelofar2000-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Nelofar2000)
 [![Instagram](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![Github](https://img.shields.io/badge/-NelofarZabi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Nelofarzabi)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/NelofarZabi)<hr><hr>
+[![Twitter Badge](https://img.shields.io/badge/-NelofarZabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NelofarZabi)](https://twitter.com/NelofarZabi)<hr><hr>
 
 ### My GitHub Status...<hr>
 <table>
