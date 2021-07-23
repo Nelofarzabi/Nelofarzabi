@@ -1,5 +1,5 @@
 <!-- # Hi there, I'm <a href = "https://github.com/Nelofarzabi" style="text-decoration: none;"> Nelofar Zabi </a>👋 -->
-<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,<a href ="https://github.com/Nelofarzabi">
+<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><a href ="https://github.com/Nelofarzabi">
   I'm Nelofar Zabi</a></h1>
   <h3 align="center">Software Engineer | Web Developer</h3>
 <h3 align ='center'>
@@ -12,7 +12,8 @@ I'm a software engineer who is passionate about making open-source more accessib
   <img src="https://img.shields.io/badge/Lives-Afghanistan%20-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Persion-brightgreen" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/></p>
 
 
 
@@ -25,9 +26,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 - ⚡ Fun fact: I love to learn new things
   
 
-<!-- ## I build with... -->
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;I Build With ....
- <hr>
+## I build with...
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
@@ -48,7 +47,7 @@ I'm a software engineer who is passionate about making open-source more accessib
  
 </p>
 
-<!-- ## Where to find me... -->
+## Where to find me...
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Where to find me....<hr>
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Nelofarzabi)
