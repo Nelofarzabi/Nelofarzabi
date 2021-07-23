@@ -9,7 +9,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 <!--  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...*** -->
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ....***
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Talking about Personal Stuffs ....
  
 - 🔭 I’m currently working on Hub-Chain Company in Afghanistan
 - 🌱 I’m currently learning React and Node.Js
