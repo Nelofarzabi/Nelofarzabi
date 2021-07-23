@@ -27,7 +27,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
   
 
-###  🛠 &nbsp;Languages | Technologys | Frameworks | Skills...
+###  🛠 &nbsp;Languages | Technologys | Frameworks | Skills...<hr>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -61,17 +61,17 @@ I'm a software engineer who is passionate about making open-source more accessib
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;<hr><hr>
 
-### :link: &nbsp;Find me around the web...<hr><hr>
+### :link: &nbsp;Find me around the web...<hr>
 [![Linkedin](https://img.shields.io/badge/-NelofarZabi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
 [![Gmail](https://img.shields.io/badge/-NelofarZabi2000-c14438?style=flat&logo=Gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
 [![Facebook](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 [![CodePen](https://img.shields.io/badge/-Nelofar2000-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Nelofar2000)
 [![Instagram](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
-[![Github](https://img.shields.io/badge/-NelofarZabi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Nelofarzabi)
+[![Github](https://img.shields.io/badge/-NelofarZabi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Nelofarzabi)<hr><hr>
 
-### My GitHub Status...
+### My GitHub Status...<hr>
 <table>
    
    <table width="100%">
