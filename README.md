@@ -73,12 +73,12 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
 [![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)](https://dev.to/nelofarzabi) -->
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)]()
-[![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Nelofar2000)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
-[![Facebook](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
+[![Linkedin](https://img.shields.io/badge/-NelofarZabi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
+[![Gmail](https://img.shields.io/badge/-NelofarZabi2000-c14438?style=flat&logo=Gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@NelofarZabi-blue?style=flat&logo=Telegram&logoColor=white)]()
+[![CodePen](https://img.shields.io/badge/-Nelofar2000-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Nelofar2000)
+[![Instagram](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
+[![Facebook](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
 <table>
    
    <table width="100%">
