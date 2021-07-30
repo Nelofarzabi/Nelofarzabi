@@ -72,7 +72,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Github](https://img.shields.io/badge/-NelofarZabi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Nelofarzabi)
 [![Twitter Badge](https://img.shields.io/badge/-NelofarZabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NelofarZabi)](https://twitter.com/NelofarZabi)<hr><hr>
 
-### My GitHub Status...<hr>
+### My GitHub Status | GitHub Data<hr>
 
 <table><br>
   <p align="center">
