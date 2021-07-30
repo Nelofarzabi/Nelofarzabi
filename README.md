@@ -78,10 +78,10 @@ I'm a software engineer who is passionate about making open-source more accessib
    <table width="100%">
    <tr>
       <td>
-         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelofarZabi&show_icons=true&hide_border=true&theme=tokyonight_color=0,52fa5a21,4dfcff21,c64dff21" />
+         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelofarZabi&show_icons=true&hide_border=true&theme=prussian_color=0,52fa5a21,4dfcff21,c64dff21" />
       </td>
       <td>
-         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight" />      
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=prussian" />      
       </td>
    
    </tr>
@@ -89,7 +89,7 @@ I'm a software engineer who is passionate about making open-source more accessib
   <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nelofarzabi&theme=tokyonight&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nelofarzabi&theme=prussian&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
