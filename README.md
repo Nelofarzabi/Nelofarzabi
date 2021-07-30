@@ -73,16 +73,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Twitter Badge](https://img.shields.io/badge/-NelofarZabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NelofarZabi)](https://twitter.com/NelofarZabi)<hr><hr>
 
 ### My GitHub Status...<hr>
-<table>
-   
-<!--    <table width="100%">
-   <tr>
-      <td> -->
-
-###My GitHub Status...
-<br>
-
-<p align="center">
+<table><br>
+  <p align="center">
   <a href="https://github.com/JayantGoel001">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
