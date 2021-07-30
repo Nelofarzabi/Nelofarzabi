@@ -97,7 +97,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 <!-- 
 <summary> -->
 <!--   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> -->
-  <h3>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜...</h3>
+ <h3>WakeTime Stats...</h3>
 <!-- </summary> -->
     <hr>
 
