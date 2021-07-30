@@ -73,14 +73,14 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Twitter Badge](https://img.shields.io/badge/-NelofarZabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NelofarZabi)](https://twitter.com/NelofarZabi)<hr><hr>
 
 ### My GitHub Status | GitHub Data...<hr>
-
+<!-- prussian -->
 <table><br>
   <p align="center">
   <a href="https://github.com/JayantGoel001">
-    <img width="410" src="https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=prussian" />
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=React" />
   </a>
   <a href="https://github.com/JayantGoel001">
-  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border=false"/>
+  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=React&hide_border=false"/>
   </a>
 </p>
 </table><hr>
