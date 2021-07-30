@@ -86,11 +86,10 @@ I'm a software engineer who is passionate about making open-source more accessib
 </table><hr>
 
 <table>
-  <h3>My GitHub Contribution Graph <h3><hr>
+  <h3>My GitHub Contribution Graph... <h3><hr>
+
  <p align="center">
  <img width="830" src="https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true" />
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true) -->
- 
  </p>
 </table><hr>
 
