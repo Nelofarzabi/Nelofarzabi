@@ -80,7 +80,7 @@ I'm a software engineer who is passionate about making open-source more accessib
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=prussian" />
   </a>
   <a href="https://github.com/JayantGoel001">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=prussian" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=prussian&hide_border=true"/>
   </a>
 </p>
 
