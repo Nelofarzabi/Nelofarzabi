@@ -83,11 +83,13 @@ I'm a software engineer who is passionate about making open-source more accessib
   <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border=false"/>
   </a>
 </p>
-</table><hr>### My GitHub 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑 ...<hr>
+</table><hr>
+
+###My GitHub Contribution Graph...<hr>
 
 <table>
  <p align="center">
- <img width="800" src="https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true" />
+ <img width="830" src="https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true" />
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true) -->
  
  </p>
