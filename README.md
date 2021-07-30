@@ -97,7 +97,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 <summary>
 <!--   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> -->
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜...</strong>
+  <h3>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜...</h3>
 </summary>
     <hr>
 
@@ -109,7 +109,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5000%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4000%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
