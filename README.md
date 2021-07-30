@@ -125,6 +125,23 @@ I'm a software engineer who is passionate about making open-source more accessib
  >     
     
  <hr><hr>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+</p>
+
+```javascript
+import { Nelofar } from "Awesome";
+
+const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
+const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
+const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
+
+Nelofar.skills.push(...languages, ...frameworks, ...databases);
+```
+
+<hr/>
     
 
 
