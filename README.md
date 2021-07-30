@@ -133,7 +133,10 @@ I'm a software engineer who is passionate about making open-source more accessib
  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30"> Me As Code...</h3> -->
     <span>
  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30">
-      <h3>Me As Code... </h3></span>
+ <h3>Me As Code... </h3>
+ </span>
+    
+    
 ```javascript
 import { Nelofar } from "Awesome";
 
