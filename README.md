@@ -85,9 +85,10 @@ I'm a software engineer who is passionate about making open-source more accessib
 </p>
 </table><hr>
 ### My GitHub 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑 ...<hr>
+
 <table>
  <p align="center">
- <img width="600" src="https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true" />
+ <img width="1000" src="https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true" />
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true) -->
  
  </p>
