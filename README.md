@@ -80,7 +80,7 @@ I'm a software engineer who is passionate about making open-source more accessib
     <img  src="https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=prussian" />
   </a>
   <a href="https://github.com/JayantGoel001">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border="/>
+  <img width="120" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border="/>
   </a>
 </p>
 
