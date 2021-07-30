@@ -126,9 +126,9 @@ I'm a software engineer who is passionate about making open-source more accessib
     
  <hr><hr>
   <p align="Left">
-  
-  <span>Me As Code...</span>
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30">
+  <span font-size="14">Me As Code...</span>
+  
 </p><hr>
 
 ```javascript
