@@ -78,11 +78,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 <!--    <table width="100%">
    <tr>
       <td> -->
-        <details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
+<details open="">
+###My GitHub Status...
 <br>
 
 <p align="center">
@@ -94,20 +91,11 @@ I'm a software engineer who is passionate about making open-source more accessib
   </a>
 </p>
 </details>
-<!--       </td>
-      <td> -->
+<!-- 
          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=prussian" />      
-<!--       </td>
-   
-   </tr> -->
-  </table><hr><hr>
-  <p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nelofarzabi&theme=prussian&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
-  </a>
-</p>
+
+  </table><hr><hr> -->
+ 
 
 
 
