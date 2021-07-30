@@ -1,11 +1,11 @@
-<!-- # Hi there, I'm <a href = "https://github.com/Nelofarzabi" style="text-decoration: none;"> Nelofar Zabi </a>👋 -->
+
 <h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><a href ="https://github.com/Nelofarzabi">
   I'm Nelofar Zabi</a></h1>
   <h3 align="center">Software Engineer | Web Developer</h3>
 <h3 align ='center'>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 </h3>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" /> </p> -->
+
 <p align="center">
 <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Programming%20Language-brightgreen" />
@@ -13,7 +13,7 @@ I'm a software engineer who is passionate about making open-source more accessib
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Persion-brightgreen" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nelofarzabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelofarzabi" />
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Nelofarzabi" alt="visitor badge"/></p> -->
+
 
 
 
@@ -93,12 +93,8 @@ I'm a software engineer who is passionate about making open-source more accessib
  </p>
 </table><hr>
  
-    
-<!-- 
-<summary> -->
-<!--   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> -->
- <h3>WakeTime Stats...</h3>
-<!-- </summary> -->
+<h3>WakeTime Stats...</h3>
+
     <hr>
 
 <a target="_blank">
@@ -125,7 +121,7 @@ I'm a software engineer who is passionate about making open-source more accessib
  >     
     
  <hr><hr>
-<!--     <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30"> -->
+
     
  <h3>Me As Code... </h3><hr>
 
