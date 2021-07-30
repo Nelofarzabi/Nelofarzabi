@@ -92,6 +92,13 @@ I'm a software engineer who is passionate about making open-source more accessib
  <img width="830" src="https://activity-graph.herokuapp.com/graph?username=Nelofarzabi&theme=react-dark&hide_border=true&area=true" />
  </p>
 </table><hr>
+    
+ <table>
+ <p align="center">
+ <img width="830" src="https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg" />
+ </p>
+</table><hr>
+    
 
 
 
