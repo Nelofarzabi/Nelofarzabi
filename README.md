@@ -113,7 +113,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 **🐱 My Github Data** 
 
-> 🏆 250 Contributions in the Year 2021
+> 🏆 245 Contributions in the Year 2021
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
