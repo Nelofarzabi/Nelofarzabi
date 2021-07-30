@@ -141,8 +141,8 @@ const databases = ["PostgreSQL", "MySql", "Oracle"];
 Nelofar.skills.push(...languages, ...frameworks, ...databases);
 ```
 
-    <hr/></hr>
-  <p align="center">
+<hr><hr>
+<p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
     
