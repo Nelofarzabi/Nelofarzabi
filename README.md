@@ -128,8 +128,8 @@ I'm a software engineer who is passionate about making open-source more accessib
   <p align="Left">
   
   <span>Me As Code...</span>
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
-</p>
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30">
+</p><hr>
 
 ```javascript
 import { Nelofar } from "Awesome";
