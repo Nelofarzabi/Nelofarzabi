@@ -83,7 +83,8 @@ I'm a software engineer who is passionate about making open-source more accessib
   <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border=false"/>
   </a>
 </p>
-</table><hr>
+</table>
+<hr>
 
 <table>
   <h3>My GitHub Contribution Graph... <h3><hr>
@@ -93,9 +94,7 @@ I'm a software engineer who is passionate about making open-source more accessib
  </p>
 </table><hr>
  
-<h3>WakeTime Stats...</h3>
-
-    <hr>
+<h3>WakeTime Stats...</h3><hr>
 
 <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
