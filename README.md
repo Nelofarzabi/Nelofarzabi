@@ -125,16 +125,10 @@ I'm a software engineer who is passionate about making open-source more accessib
  >     
     
  <hr><hr>
-<!--   <p align="Left">
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30">
-    <span><bold>Me As Code...</bold></span> -->
-  
-<!--  <h3>
- <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30"> Me As Code...</h3> -->
-    <span>
- <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30">
- <h3>Me As Code... </h3>
- </span>
+<!--     <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30"> -->
+    
+ <h3>Me As Code... </h3><hr>
+
     
     
 ```javascript
