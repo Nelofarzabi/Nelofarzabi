@@ -72,7 +72,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [![Github](https://img.shields.io/badge/-NelofarZabi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Nelofarzabi)
 [![Twitter Badge](https://img.shields.io/badge/-NelofarZabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NelofarZabi)](https://twitter.com/NelofarZabi)<hr><hr>
 
-### My GitHub Status | GitHub Data<hr>
+### My GitHub Status | GitHub Data...<hr>
 
 <table><br>
   <p align="center">
@@ -80,15 +80,11 @@ I'm a software engineer who is passionate about making open-source more accessib
     <img width="410" src="https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=prussian" />
   </a>
   <a href="https://github.com/JayantGoel001">
-  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border="/>
+  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border=true"/>
   </a>
 </p>
-
-
-<!--          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=prussian" />       -->
-
-  </table><hr><hr>
-<!--   // align="center" -->
+</table><hr>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
  
 
 
