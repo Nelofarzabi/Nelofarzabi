@@ -96,9 +96,10 @@ I'm a software engineer who is passionate about making open-source more accessib
     
 
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+<!--   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> -->
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜...</strong>
 </summary>
+    <hr>
 
 <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
@@ -108,7 +109,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5000%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -116,7 +117,7 @@ I'm a software engineer who is passionate about making open-source more accessib
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 💼 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙
  > 
 > 📜 14 Public Repositories 
  > 
