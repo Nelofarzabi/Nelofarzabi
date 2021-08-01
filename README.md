@@ -114,7 +114,7 @@ I'm a software engineer who is passionate about making open-source more accessib
  > 
 > 💼 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙
  > 
-> 📜 15 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  >     
