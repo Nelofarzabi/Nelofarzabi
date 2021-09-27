@@ -19,8 +19,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Talking about Personal Stuffs ....
  
-- 🔭 I’m currently Learning React.JS 
-- 🌱 I’m currently learning React and Node.Js
+
+- 🌱 I’m currently learning React.JS and Node.JS
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with some one who needs help
 - ⚡ Fun fact: I love to learn new things
