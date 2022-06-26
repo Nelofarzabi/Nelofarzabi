@@ -16,8 +16,10 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 
-
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Talking about Personal Stuffs ....
+<!-- 
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+  
+  Talking about Personal Stuffs ....
  
 
 - 🌱 I’m currently learning React.JS and Node.JS
