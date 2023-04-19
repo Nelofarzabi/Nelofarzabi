@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Programming%20Language-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Afghanistan%20-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Persion-brightgreen" />
