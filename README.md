@@ -110,15 +110,15 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 **🐱 My Github Data** 
 
-> 🏆 323 Contributions in the Year 2021
+> 🏆 279 Contributions in the Year 2023
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙
  > 
-> 📜 14 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 1 Private Repositories  
  >     
     
  <hr><hr>
