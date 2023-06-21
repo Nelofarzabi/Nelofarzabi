@@ -76,7 +76,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 ### My GitHub Status | GitHub Data...<hr>
 
-<table><br>
+<table>
   <p align="center">
   <a href="https://github.com/JayantGoel001">
     <img width="410" src="https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=prussian" />
