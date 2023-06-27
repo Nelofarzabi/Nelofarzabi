@@ -3,7 +3,7 @@
   I'm Nelofar Zabi</a></h1>
   <h3 align="center">Software Engineer | Web Developer</h3>
 <h3 align ='center'>
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+I'm a software engineer from Afghanistan and a full time student at Microverse
 </h3>
 
 <p align="center">
@@ -23,8 +23,8 @@ I'm a software engineer who is passionate about making open-source more accessib
  
 
 - 🌱 I’m currently Student at Microverse 
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with some one who needs help
+- 👯 I’m currently learning JavaScript, React, Redux, and Ruby.
+- 🤔 I'm able to work remotely with people from all backgrounds and communicate clearly and assertively.
 - ⚡ Fun fact: I love to learn new things
 
   
