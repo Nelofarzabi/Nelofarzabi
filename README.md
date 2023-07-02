@@ -118,7 +118,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 1 Private Repositories  
+> 🔑 3 Private Repositories  
  >     
     
  <hr><hr>
