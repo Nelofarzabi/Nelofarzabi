@@ -110,15 +110,15 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 **🐱 My Github Data** 
 
-> 🏆 289 Contributions in the Year 2023
+> 🏆 884 Contributions in the Year 2023
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙
  > 
-> 📜 29 Public Repositories 
+> 📜 35 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 2 Private Repositories  
  >     
     
  <hr><hr>
