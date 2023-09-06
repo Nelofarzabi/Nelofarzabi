@@ -75,15 +75,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 [![Twitter Badge](https://img.shields.io/badge/-NelofarZabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NelofarZabi)](https://twitter.com/NelofarZabi)<hr><hr>
 
 
-  <h1 align="center">
-   My Top Group Projects I have contributed to
-  </h1>
-  
-<p align="center">
-
-| | |
-|--------|--------|
-| <a href="https://github.com/rica213/vr-world"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=vr-world&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="full-stack-capstone-project"></a> | <a href="https://github.com/jonas-45/space-travellers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=jonas-45&repo=space-travellers-hub&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a> | 
+ 
 
 ### My GitHub Status | GitHub Data...<hr>
 
@@ -98,6 +90,16 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 </p>
 </table>
 <hr>
+
+ <h1 align="center">
+   My Top Group Projects I have contributed to
+  </h1>
+  
+<p align="center">
+
+| | |
+|--------|--------|
+| <a href="https://github.com/Nelofarzabi/space-travelers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=space-travelers-hub&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a> | <a href="https://github.com/Akorede3133/capstone-project-II"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Akorede3133&repo=capstone-project-II&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="javascript-capstone-project"></a> | 
 
 <!-- <table>
   <h3>My GitHub Contribution Graph... <h3><hr>
