@@ -85,7 +85,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=Nelofarzabi&show_icons=true&theme=prussian" />
   </a>
   <a href="https://github.com/JayantGoel001">
-  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border=false"/>
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelofarzabi&theme=prussian&hide_border=false"/>
   </a>
 </p>
 </table>
