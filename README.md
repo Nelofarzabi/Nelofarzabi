@@ -99,7 +99,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 | | |
 |--------|--------|
-| <a href="https://github.com/Nelofarzabi/space-travelers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=space-travelers-hub&theme=prussian&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a> | <a href="https://github.com/Akorede3133/capstone-project-II"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Akorede3133&repo=capstone-project-II&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="javascript-capstone-project"></a> | 
+| <a href="https://github.com/Nelofarzabi/space-travelers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=space-travelers-hub&theme=react&bg_color=4f8b9c&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a> | <a href="https://github.com/Akorede3133/capstone-project-II"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Akorede3133&repo=capstone-project-II&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="javascript-capstone-project"></a> | 
 
 <!-- <table>
   <h3>My GitHub Contribution Graph... <h3><hr>
