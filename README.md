@@ -19,7 +19,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 <!-- 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
   
-  Talking about Personal Stuffs ....
+  Talking about Personal Stuffs ...
  
 
 - 🌱 I’m currently Student at Microverse 
@@ -92,7 +92,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 <hr>
 
-### My Top Group Projects I have contributed to
+### My Top Group Projects I have contributed to...
 
 
   
@@ -104,7 +104,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 
 
-### My Templates 
+### My Templates...
 <p align="center">
 
 |  |  |
