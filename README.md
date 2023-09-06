@@ -92,9 +92,9 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 <hr>
 
-  <h1 align="center">
-   My Top Group Projects I have contributed to
-  </h1>
+<!--   <h1 align="center">  -->
+###My Top Group Projects I have contributed to
+<!--   </h1> -->
 
   
 <p align="center">
