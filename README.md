@@ -100,7 +100,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 | | |
 |--------|--------|
-|<a href="https://github.com/Nelofarzabi/space-travelers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=space-travelers-hub&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="react-group-project"></a> | <a href="https://github.com/Akorede3133/capstone-project-II"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Akorede3133&repo=capstone-project-II&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="javascript-capstone-project"></a> | 
+|<a href="https://github.com/Nelofarzabi/space-travelers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=space-travelers-hub&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="react-group-project"></a> | <a href="https://github.com/Nelofarzabi/capstone-project-II"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=capstone-project-II&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="javascript-capstone-project"></a> | 
 
 
 
@@ -133,13 +133,13 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 **🐱 My Github Data** 
 
-> 🏆 884 Contributions in the Year 2023
+> 🏆 959 Contributions in the Year 2023
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙
  > 
-> 📜 35 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  >     
@@ -152,13 +152,13 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
     
     
 ```javascript
-import { Nelofar } from "Awesome";
-
-const languages = ["Javascript", "Python",  "Java"];
-const frameworks = ["React", "Bootstrap", "Taliwind" , "Material-UI"];
-const databases = ["PostgreSQL", "MySql", "Oracle"];
-
-Nelofar.skills.push(...languages, ...frameworks, ...databases);
+{
+  open_to_work: true,
+  current_position: [ " Micronaut  🔭 "],
+  current_studies: [" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "],
+  current_interests: [" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "],
+  pronouns: " She/Her 🦄",
+}
 ```
 
 <hr><hr>
