@@ -92,9 +92,8 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 
 <hr>
 
-<!--   <h1 align="center">  -->
 ### My Top Group Projects I have contributed to
-<!--   </h1> -->
+
 
   
 <p align="center">
@@ -103,6 +102,15 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
 |--------|--------|
 |<a href="https://github.com/Nelofarzabi/space-travelers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=space-travelers-hub&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="react-group-project"></a> | <a href="https://github.com/Akorede3133/capstone-project-II"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Akorede3133&repo=capstone-project-II&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="javascript-capstone-project"></a> | 
 
+
+
+### My Templates 
+<p align="center">
+
+|  |  |
+|--------|--------|
+| <a href="https://github.com/Nelofarzabi/Setup_Project_With_Webpack"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=Setup_Project_With_Webpack&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="Setup_Project_With_Webpack_template"></a> | <a href="https://github.com/Nelofarzabi/Nelofarzabi"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nelofarzabi&repo=Nelofarzabi_template&theme=react&bg_color=172F45&title_color=58A6DA&hide_border=false&icon_color=2A6EAE&º" alt="Nelofarzabi_template"></a> 
+</p>
 <!-- <table>
   <h3>My GitHub Contribution Graph... <h3><hr>
 
