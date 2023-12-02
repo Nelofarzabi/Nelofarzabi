@@ -21,8 +21,8 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
   Talking about Personal Stuffs ...
  
 
-- 🌱 I’m currently Student at Microverse 
-- 👯 I’m currently learning JavaScript, React, Redux, and Ruby.
+- 🌱 Currently, I'm working as a software engineer at TekGenie in London, UK.
+- 👯 I’m currently learning Flutter, JavaScript, React, Redux, and Ruby.
 - 🤔 I'm able to work remotely with people from all backgrounds and communicate clearly and assertively.
 - ⚡ Fun fact: I love to learn new things
 
