@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><a href ="https://github.com/Nelofarzabi">
   I'm Nelofar Zabi</a></h1>
-  <h3 align="center">Software Engineer</h3>
+  <h3 align="center">Software Engineer | Web Developer | Mobile Developer </h3>
 <h3 align ='center'>
 I'm a software engineer from Afghanistan and a full time student at Microverse
 </h3>
