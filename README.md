@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><a href ="https://github.com/Nelofarzabi">
   I'm Nelofar Zabi</a></h1>
-  <h3 align="center">Software Engineer | Web Developer</h3>
+  <h3 align="center">Software Engineer</h3>
 <h3 align ='center'>
 I'm a software engineer from Afghanistan and a full time student at Microverse
 </h3>
@@ -22,7 +22,7 @@ I'm a software engineer from Afghanistan and a full time student at Microverse
  
 
 - 🌱 Currently, I'm working as a Software Engineer at TekGenie in London_United Kingdom.
-- 👯 I’m currently learning Flutter, JavaScript, React, Redux, and Ruby.
+- 👯 I’m currently learning Flutter, Dart ,  JavaScript, React, Redux, and Ruby.
 - 🤔 I'm able to work remotely with people from all backgrounds and communicate clearly and assertively.
 - ⚡ Fun fact: I love to learn new things
 
